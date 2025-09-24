@@ -77,7 +77,7 @@ Trained models are saved under ```stages/```
 
 With about 100k episodes:
 
-![Final RL Training with 100k episode](https://github.com/evhuh/doudizhu-rl/raw/master/assets/readme_assets/final_rl_stats.png)
+![Final RL Training with 100k episode](https://github.com/evhuh/doudizhu-rl/raw/main/assets/readme_assets/final_rl_stats.png)
 
 TensorBoard can be launched to visualize progress:
 ```bash

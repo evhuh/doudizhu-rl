@@ -1,0 +1,18 @@
+
+doudizhu_env/
+
+logs/
+
+# Ignore large checkpoint files
+training/checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+.venv/
+venv/
+env/

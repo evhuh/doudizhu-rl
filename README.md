@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/doudizhu-rl.git
+git clone https://github.com/evhuh/doudizhu-rl.git
 cd doudizhu-rl
 ```
 
